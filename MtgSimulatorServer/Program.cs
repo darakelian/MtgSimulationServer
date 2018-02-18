@@ -2,11 +2,14 @@
 
 namespace MtgSimulatorServer
 {
+    /// <summary>
+    /// Entry point into the server.
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Create a base server that will handle incomming connections
         }
     }
 }
